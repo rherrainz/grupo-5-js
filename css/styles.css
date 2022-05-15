@@ -1,0 +1,23 @@
+.nav-item-white{
+    color: white;
+}
+
+.navbar{
+    background-color: #7952b3 !important;
+}
+
+/* Spinner Shared */
+.spinner-mt{
+    margin-top: 20rem;
+}
+
+/**
+* INDEX
+*/
+
+/* presentation*/
+.presentation-row-bg{
+    background-color: #818a91;
+}
+
+/* Contact container full */
